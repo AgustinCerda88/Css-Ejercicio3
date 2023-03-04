@@ -1,6 +1,37 @@
 
 header {
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    }
+
+    .lupa {
+        height: 8px;
+    }
+    .busca {
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        padding-left: 20px;
+        height: 20px;
+        padding-bottom: 5px;
+    }
     
+    svg.input-icon {
+        display: block;
+        position: absolute;
+        width: 17px;
+    }
+    
+    .img-hea {
+        height: 15px;
+
+    }
+
+    visita {
+        font-size: 14px;
+        margin-top: 15px;
+        padding-left: 0px;
     }
 
     .list {
